@@ -48,7 +48,14 @@ Portofolio_Ihsan/
 
 ---
 
-## 🌐 Cara Upload / Deploy ke InfinityFree (Langkah Singkat)
+## 🌐 Live Website (GitHub Pages)
+
+Web portofolio ini dapat diakses secara publik di:
+👉 **[https://ihsandefriyadi.github.io/portfolio-/](https://ihsandefriyadi.github.io/portfolio-/)**
+
+---
+
+## 🌐 Cara Upload / Deploy ke Hosting (InfinityFree / Shared Hosting)
 
 Web ini dibuat dengan arsitektur **Zero-Build Static Web**, yang berarti sangat mudah di-deploy ke shared hosting InfinityFree:
 
