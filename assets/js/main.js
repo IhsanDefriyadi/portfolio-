@@ -220,7 +220,7 @@ const projectDetailsData = {
     ],
     tech: ['Laravel', 'PHP 8', 'MySQL', 'Chart.js', 'REST API', 'Redis'],
     demoUrl: 'https://dash.infinityfree.com',
-    repoUrl: 'https://github.com/IhsanDetr'
+    repoUrl: 'https://github.com/IhsanDefriyadi'
   },
   nlp: {
     title: 'Lexi-AI: NLP Topic Modeling & Sentiment Analytics',
@@ -235,7 +235,7 @@ const projectDetailsData = {
     ],
     tech: ['Python', 'Topic Modeling', 'Scikit-Learn', 'NLTK / SpaCy', 'Flask API', 'Pandas'],
     demoUrl: '#',
-    repoUrl: 'https://github.com/IhsanDetr'
+    repoUrl: 'https://github.com/IhsanDefriyadi'
   },
   gesture: {
     title: 'Cyber Clash: Motion Gesture Interactive Web Game',
@@ -250,7 +250,7 @@ const projectDetailsData = {
     ],
     tech: ['JavaScript (ES6+)', 'Computer Vision', 'MediaPipe', 'HTML5 Canvas', 'Web Audio API'],
     demoUrl: 'https://gesture-game.freedev.app',
-    repoUrl: 'https://github.com/IhsanDetr'
+    repoUrl: 'https://github.com/IhsanDefriyadi'
   },
   powerbi: {
     title: 'Enterprise Power BI Business Intelligence Suite',
@@ -265,7 +265,7 @@ const projectDetailsData = {
     ],
     tech: ['Power BI', 'DAX', 'Power Query (M)', 'SQL', 'Data Modeling', 'Excel Analytics'],
     demoUrl: '#',
-    repoUrl: 'https://github.com/IhsanDetr'
+    repoUrl: 'https://github.com/IhsanDefriyadi'
   }
 };
 
